@@ -1,2 +1,3 @@
 # TugasCSSReynold
-Reynold Karinda 220211060179
+220211060179 Reynold Karinda
+
