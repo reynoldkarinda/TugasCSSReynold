@@ -1,3 +1,2 @@
-# TugasCSSReynold
-220211060179 Reynold Karinda
-
+# TugasHtmlReynold
+220211060179/Reynold Karinda
